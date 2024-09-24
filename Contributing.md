@@ -30,7 +30,7 @@ Follow these steps to create your first pull request (PR):
     git commit -m "<your_commit_message>"
 12. Push your local commits to your forked repository:
     git push -u origin <your_branch_name>
-13. reate a Pull Request (PR) from your branch into the main branch of this repository.
+13. Create a Pull Request (PR) from your branch into the main branch of this repository.
 
 🎉 Congratulations! You’ve made your contribution!
 
