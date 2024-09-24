@@ -31,27 +31,28 @@ Follow these steps to create your first pull request (PR):
 12. Push your local commits to your forked repository:
     git push -u origin <your_branch_name>
 13. reate a Pull Request (PR) from your branch into the main branch of this repository.
+
 🎉 Congratulations! You’ve made your contribution!
 
 # 🌟 Code of Conduct
-Please adhere to our Code of Conduct while contributing to this project:
+- Please adhere to our Code of Conduct while contributing to this project:
 
-Treat everyone with respect and foster a positive, inclusive environment.
+- Treat everyone with respect and foster a positive, inclusive environment.
 
-Harassment, discrimination, or inappropriate behavior of any kind will not be tolerated.
+- Harassment, discrimination, or inappropriate behavior of any kind will not be tolerated.
 
-By contributing, you agree to maintain a collaborative spirit and uphold the standards of the Project Kaleidoscope community.
+- By contributing, you agree to maintain a collaborative spirit and uphold the standards of the Project Kaleidoscope community.
 
 # 💡 Tips for First-Time Contributors
-We understand that learning and contributing can be a challenge, especially for first-timers. But don’t worry—we’ve got your back! 😇 Here are a few tips:
+- We understand that learning and contributing can be a challenge, especially for first-timers. But don’t worry—we’ve got your back! 😇 Here are a few tips:
 
-Take your time to understand the project.
+- Take your time to understand the project.
 
-Start with small issues or documentation improvements to get familiar with the codebase.
+- Start with small issues or documentation improvements to get familiar with the codebase.
 
-Don’t hesitate to ask for help from the maintainers or other contributors.
+- Don’t hesitate to ask for help from the maintainers or other contributors.
 
-Remember, everyone was a beginner once, and your efforts are appreciated!
+- Remember, everyone was a beginner once, and your efforts are appreciated!
 
 You've got this! 💪
 
