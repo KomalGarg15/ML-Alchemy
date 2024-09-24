@@ -1,4 +1,6 @@
 ## ⚗️ ML-Alchemy
+![image](https://github.com/user-attachments/assets/7af30e4e-3c29-4dcc-a79b-029aacedc7d3)
+
 ML Alchemy is your comprehensive guide to mastering the art of machine learning. This repository is designed to simplify machine learning concepts, offer practical applications, and help you explore the world of artificial intelligence. Whether you're just starting or diving into advanced ML techniques, this collection of courses and projects will help you turn data into actionable insights.
 
 ## 🌟 Alchemy - Transforming Data into Knowledge
@@ -45,6 +47,9 @@ Languages: Python
 - Version Control: Git
 
 ## 🌈 Repository Structure
+![image](https://github.com/user-attachments/assets/5efae17e-944e-42f3-925d-116a68b34be2)
+
+
 The ML Alchemy repository is organized by learning paths and project applications:
 
 ML-Alchemy/
