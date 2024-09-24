@@ -1,6 +1,6 @@
-# ✨ Contributing to Project Kaleidoscope ✨
+# ✨ Contributing to ML-Alchemy ✨
 
-Welcome to **Project Kaleidoscope** under the **Aegis Nimbus** umbrella! We appreciate your interest in contributing to this exciting initiative. Whether you're here to enhance our projects, report issues, or collaborate on innovative tech, your contributions are invaluable. 😊 This guide will help you get started and make your first contribution.
+Welcome to **ML-Alchemy** under the **Aegis Nimbus** umbrella! We appreciate your interest in contributing to this exciting initiative. Whether you're here to enhance our projects, report issues, or collaborate on innovative tech, your contributions are invaluable. 😊 This guide will help you get started and make your first contribution.
 
 ---
 
