@@ -14,23 +14,25 @@ Follow these steps to create your first pull request (PR):
    ```bash
    git clone https://github.com/<your-github-username>/ML-Alchemy.git
 4. If you've already forked the project, update your copy.
+
    git remote update
-5. Navigate to the project directory.
+6. Navigate to the project directory.
+
    cd ML-Alchemy
-6. Set an upstream with the parent repository
+8. Set an upstream with the parent repository
 
    git remote add upstream https://github.com/AegisNimbus/ML-Alchemy.git
-8. If necessary, rebase your copy
+9. If necessary, rebase your copy
    git rebase upstream/<branch_name>
-9. Create a new branch for your changes
+10. Create a new branch for your changes
    git checkout -b <your_branch_name>
-10. Make your changes—feel free to add features, fix bugs, or improve documentation.
-11. Stage and commit your changes
+11. Make your changes—feel free to add features, fix bugs, or improve documentation.
+12. Stage and commit your changes
     git add .
     git commit -m "<your_commit_message>"
-12. Push your local commits to your forked repository:
+13. Push your local commits to your forked repository:
     git push -u origin <your_branch_name>
-13. Create a Pull Request (PR) from your branch into the main branch of this repository.
+14. Create a Pull Request (PR) from your branch into the main branch of this repository.
 
 🎉 Congratulations! You’ve made your contribution!
 
