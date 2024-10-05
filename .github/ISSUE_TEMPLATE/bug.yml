@@ -17,7 +17,7 @@
       validations:
         required: true
     - type: checkboxes
-    attributes:
+      attributes:
       label: "Record"
       options:
         - label: "I agree to follow this project's Contributing.md"
